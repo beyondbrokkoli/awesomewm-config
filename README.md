@@ -25,4 +25,4 @@ Sloppy focus disabled.
 
 Every window is "forced" into floating and fullscreen.
 
-The hotkeys to toggle floating and fullscreen are still active.
+Minimizing windows is disabled.
