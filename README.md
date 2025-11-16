@@ -33,3 +33,7 @@ Sloppy focus disabled.
 Every window is "forced" into floating and fullscreen.
 
 Minimizing windows is disabled.
+
+# Notes:
+
+The prompt does not read alias commands from your ".bashrc", you can symlink apps into "/usr/bin/ with "ln -s yourapp /usr/bin/yoursymlink".
