@@ -6,7 +6,8 @@ Once that is taken care off you dont need a Desktop Environment to play games.
 
 Make sure to apply your desktop resolution and refresh rate in your "~/.xinitrc" before you run "ecex awesome".
 
-You can find your xrandr command with "lxrandr". (After saving the applied settings the command line can be found inside "~/.config/autostart/lxrandr-autostart.desktop"
+You can set and find your xrandr command with "lxrandr".
+After saving the applied settings, the corresponding command line can be found inside "~/.config/autostart/lxrandr-autostart.desktop".
 
 # Example "~/.xinitrc"
 ```
