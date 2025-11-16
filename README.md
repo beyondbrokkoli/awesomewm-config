@@ -15,9 +15,9 @@ exec awesome
 ```
 "Features":
 
-Only one single "workspace/tag".
+Windows Key + J or K to navigate between windows.
 
-All the "standard" (awesomewm) hotkeys for switching and minimizing windows still work.
+Only one single "workspace/tag".
 
 Easy to read rc.lua without comments and commented-out parts.
 
