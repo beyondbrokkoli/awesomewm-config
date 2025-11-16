@@ -17,6 +17,10 @@ exec awesome
 
 Windows Key + J or K to navigate between windows.
 
+Windows Key + R to launch programs (invisible prompt).
+
+Windows Key + Return to open xterm in the background.
+
 Only one single "workspace/tag".
 
 Easy to read rc.lua without comments and commented-out parts.
