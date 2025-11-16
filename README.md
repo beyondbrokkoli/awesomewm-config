@@ -1,7 +1,11 @@
 Encountering window/fullscreen issues with Steam + Proton on Linux?
+
 You "need" KDE or similiar to fully utilize Steams backup and install features because awesomewm does not take care of the "xdg" related actions.
+
 Once that is taken care off you dont need a Desktop Environment to play games.
+
 Make sure to apply your desktop resolution and refresh rate in your ".xinitrc" before you run "ecex awesome".
+
 You can find your xrandr command with "lxrandr". (After saving the applied settings the command line can be found inside "~/.config/autostart/lxrandr-autostart.desktop"
 ```
 numlockx on
@@ -10,9 +14,15 @@ xrandr --output DP-0 --mode 1920x1080 --rate 239.96
 exec awesome
 ```
 "Features":
+
 Only one single "workspace/tag".
+
 All the "standard" (awesomewm) hotkeys for switching and minimizing windows still work.
+
 Easy to read rc.lua without comments and commented-out parts.
+
 Sloppy focus disabled.
+
 Every window is "forced" into floating and fullscreen.
+
 The hotkeys to toggle floating and fullscreen are still active.
