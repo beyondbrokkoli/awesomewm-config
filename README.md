@@ -36,4 +36,7 @@ Minimizing windows is disabled.
 
 # Notes:
 
+Set your wallpaper:
+```mv /usr/share/awesome/themes/default/background.png /usr/share/awesome/themes/default/background.png.old;ln -s mywallpaper /usr/share/awesome/themes/default/background.png ```
+
 The prompt does not read alias commands from your ".bashrc", you can symlink apps into "/usr/bin/ with "ln -s yourapp /usr/bin/yoursymlink".
