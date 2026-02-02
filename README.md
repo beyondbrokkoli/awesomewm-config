@@ -1,1 +1,1 @@
-Fixes Fullscreen/Bordering Issues while gaming
+Fixes some windowing issues while gaming
